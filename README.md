@@ -18,7 +18,7 @@
   - GCP
   - Elasticsearch
 - 📫 How to reach me:
-  - LinkedIn
+  - [LinkedIn](https://www.linkedin.com/in/mishams/)
 - ⚡ Fun facts:
   - There was a time when I drove all the way from Sheffield, UK to St Moritz, Switzerland in 1 day
   - There was a time when I'd been exploring Finland, Sweden & Norway driving around for 2 weeks

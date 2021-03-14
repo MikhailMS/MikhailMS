@@ -9,9 +9,9 @@
   - Rust
   - Music composition/recording/production
 - 👯 I’m looking to collaborate on:
-  - Rust projects
-- 🤔 I’m looking for help with ...
   - Rust projects (obviously something not complex, as I'm only learning it atm)
+- 🤔 I’m looking for help with ...
+  - N/A right now 
 - 💬 Ask me about ...
   - BT
   - Python

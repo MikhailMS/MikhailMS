@@ -3,11 +3,11 @@
 - 🔭 I’m currently working @ BT on the following projects:
   - RADIUS >> Elasticsearch/GCP: designing & implementing ETL & ELT pipelines
   - Data Quality & Governance
-- 🌱 I’m currently learning:
-  - Rust
-  - Embedded Rust - using micro:bit V2 for now, got plans for other controllers as well 🤩
+- 🌱 I’m currently:
+  - Learning Rust
+  - Learning Embedded Rust - using micro:bit V2 for now, got plans for other controllers as well 🤩
   - Writing OS in Rust - following [mainly this tutorial](https://os.phil-opp.com/) and having lots of fun along the way
-  - Music composition/recording/production
+  - Learning music composition/recording/production
 - 👯 I’m looking to collaborate on:
   - Rust projects
 - 🤔 I’m looking for help with ...

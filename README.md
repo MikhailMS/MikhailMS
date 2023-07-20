@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning:
   - Rust
   - Embedded Rust - using micro:bit V2 for now, got plans for other controllers as well 🤩
+  - Writing OS in Rust - following [mainly this tutorial](https://os.phil-opp.com/) and having lots of fun along the way
   - Music composition/recording/production
 - 👯 I’m looking to collaborate on:
-  - Rust projects (obviously something not complex, as I'm only learning it atm)
+  - Rust projects
 - 🤔 I’m looking for help with ...
   - [RADIUS, Rust version](https://github.com/MikhailMS/rust-radius)
 - 💬 Ask me about ...
@@ -25,6 +26,7 @@
 ## Tech Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)

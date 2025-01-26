@@ -1,10 +1,6 @@
 # Hello there and Welcome 👋
 
-- 🔭 I’m currently working @ BT on the following projects:
-  - RADIUS >> Elasticsearch/GCP: designing & implementing ETL & ELT pipelines
-  - Data Quality & Governance
 - 🌱 I’m currently:
-  - Learning Rust
   - Learning Embedded Rust - using micro:bit V2 for now, got plans for other controllers as well 🤩
   - Writing OS in Rust - following [mainly this tutorial](https://os.phil-opp.com/) and having lots of fun along the way
   - Learning music composition/recording/production
@@ -13,7 +9,8 @@
 - 🤔 I’m looking for help with ...
   - [RADIUS, Rust version](https://github.com/MikhailMS/rust-radius)
 - 💬 Ask me about ...
-  - BT
+  - Golang
+  - Rust 
   - Python
   - GCP
   - Elasticsearch
